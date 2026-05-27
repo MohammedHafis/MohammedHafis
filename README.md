@@ -36,11 +36,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mohammedhafis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedhafis&show_icons=true&theme=tokyonight" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=mohammedhafis&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohammedhafis&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhafis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhafis&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
